@@ -1,0 +1,14 @@
+D:\try\Com.Danliris.Service.Auth\Com.Danliris.Service.Auth.WebApi\bin\Debug\netcoreapp2.0\Com.Danliris.Service.Auth.WebApi.deps.json
+D:\try\Com.Danliris.Service.Auth\Com.Danliris.Service.Auth.WebApi\bin\Debug\netcoreapp2.0\Com.Danliris.Service.Auth.WebApi.runtimeconfig.json
+D:\try\Com.Danliris.Service.Auth\Com.Danliris.Service.Auth.WebApi\bin\Debug\netcoreapp2.0\Com.Danliris.Service.Auth.WebApi.runtimeconfig.dev.json
+D:\try\Com.Danliris.Service.Auth\Com.Danliris.Service.Auth.WebApi\bin\Debug\netcoreapp2.0\Com.Danliris.Service.Auth.WebApi.dll
+D:\try\Com.Danliris.Service.Auth\Com.Danliris.Service.Auth.WebApi\obj\Debug\netcoreapp2.0\Com.Danliris.Service.Auth.WebApi.csprojAssemblyReference.cache
+D:\try\Com.Danliris.Service.Auth\Com.Danliris.Service.Auth.WebApi\obj\Debug\netcoreapp2.0\Com.Danliris.Service.Auth.WebApi.csproj.CoreCompileInputs.cache
+D:\try\Com.Danliris.Service.Auth\Com.Danliris.Service.Auth.WebApi\obj\Debug\netcoreapp2.0\Com.Danliris.Service.Auth.WebApi.AssemblyInfoInputs.cache
+D:\try\Com.Danliris.Service.Auth\Com.Danliris.Service.Auth.WebApi\obj\Debug\netcoreapp2.0\Com.Danliris.Service.Auth.WebApi.AssemblyInfo.cs
+D:\try\Com.Danliris.Service.Auth\Com.Danliris.Service.Auth.WebApi\bin\Debug\netcoreapp2.0\Com.Danliris.Service.Auth.WebApi.pdb
+D:\try\Com.Danliris.Service.Auth\Com.Danliris.Service.Auth.WebApi\bin\Debug\netcoreapp2.0\Com.Danliris.Service.Auth.Lib.dll
+D:\try\Com.Danliris.Service.Auth\Com.Danliris.Service.Auth.WebApi\bin\Debug\netcoreapp2.0\Com.Danliris.Service.Auth.Lib.pdb
+D:\try\Com.Danliris.Service.Auth\Com.Danliris.Service.Auth.WebApi\obj\Debug\netcoreapp2.0\Com.Danliris.Service.Auth.WebApi.csproj.CopyComplete
+D:\try\Com.Danliris.Service.Auth\Com.Danliris.Service.Auth.WebApi\obj\Debug\netcoreapp2.0\Com.Danliris.Service.Auth.WebApi.dll
+D:\try\Com.Danliris.Service.Auth\Com.Danliris.Service.Auth.WebApi\obj\Debug\netcoreapp2.0\Com.Danliris.Service.Auth.WebApi.pdb
